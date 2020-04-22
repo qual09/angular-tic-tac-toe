@@ -1,0 +1,4 @@
+<button *ngIf="!value && !winner">{{ value }}</button>
+<button nbButton hero status="warning" *ngIf="!value && winner">{{ value }}</button>
+<button nbButton hero status="success" *ngIf="value=='X'">{{ value }}</button>
+<button nbButton hero status="info" *ngIf="value=='O'">{{ value }}</button>
