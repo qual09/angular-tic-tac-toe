@@ -4,3 +4,6 @@ button{
     font-size: 7em !important; 
     //background-color: teal;
 }
+button:focus{
+    box-shadow: none!important;
+}
