@@ -1,0 +1,28 @@
+button{ 
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 100%; 
+  font-size: 5em; 
+  width: 100%; 
+}
+
+button:focus{
+  border: none;
+  box-shadow: none;
+}
+
+.squareOn{
+  background-color: lightgray;
+}
+
+.squareOff{
+  background-color: gray;
+}
+
+.squareO{
+  background-color: CornflowerBlue;
+}
+
+.squareX{
+  background-color: OrangeRed;
+}

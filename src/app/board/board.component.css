@@ -1,0 +1,22 @@
+main {
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  grid-gap: 0px;
+}
+
+app-square {
+  border: 1px solid transparent;
+  height: 100px;
+}
+
+button {
+  background-color: dodgerblue;
+  border: none;
+  color: white;
+  margin-bottom: 20px;
+  padding: 5px 10px;
+}
+
+button:hover {
+  text-decoration: underline;
+}
