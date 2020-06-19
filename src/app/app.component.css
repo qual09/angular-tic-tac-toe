@@ -6,3 +6,9 @@
   padding: 30px;
   width: fit-content;
 }
+
+.footer {
+  margin-top: 10px;
+  text-align: center;
+  width: 100%;
+}
