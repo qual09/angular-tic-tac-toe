@@ -1,14 +1,8 @@
-.container{
+.container {
   background-color: yellowgreen;
   border-radius: 10px;
   box-shadow: 0px 0px 5px black;
-  margin: 0px auto;
+  margin: 20px auto;
   padding: 30px;
   width: fit-content;
-}
-
-.footer {
-  margin-top: 10px;
-  text-align: center;
-  width: 100%;
 }
